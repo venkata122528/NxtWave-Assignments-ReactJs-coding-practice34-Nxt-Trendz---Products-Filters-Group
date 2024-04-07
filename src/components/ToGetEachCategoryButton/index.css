@@ -1,0 +1,7 @@
+.eachCategoryListItem {
+  list-style-type: none;
+}
+
+.button {
+  cursor: pointer;
+}

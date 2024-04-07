@@ -1,0 +1,17 @@
+.eachRatingContainer {
+  list-style-type: none;
+}
+
+.ratingImageTextContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ratingImage {
+  width: 80%;
+}
+
+.button {
+  cursor: pointer;
+}
